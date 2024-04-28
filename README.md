@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+## Entusiasta de tecnologia e inovação, evangelizador da Cultura da Qualidade em todas as etapas do desenvolvimento de software.
 <!--
 **Norisvaljunior/norisvaljunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
